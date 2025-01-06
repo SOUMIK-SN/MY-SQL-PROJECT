@@ -1,0 +1,1 @@
+SELECT * FROM elpizzario_pizza.pizzas;
